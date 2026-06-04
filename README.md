@@ -31,3 +31,6 @@ This list is a timeline starting from the most recent event to the oldest one.
 
 - **9/24/2023**: First revision is acceptable for the moment. Beginning C++ pre-alpha bootstrapping.
 - **9/7/2023**: Pending the release of the first revision of the specification
+
+- // This following message is coming from another person who is creating a different language with the same name, not the Creator
+// well, i'm just a 12 Year Old who's creating a language, i originally had the name X++, but i ditched that to avoid legal trouble, and now, i have S++ as the name, but now, i just found out about this, he did this like 3 years before me, so Fair game, but what i'm asking for, could i please just use this name "S++"?
